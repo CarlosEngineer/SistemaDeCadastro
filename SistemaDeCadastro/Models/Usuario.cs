@@ -8,7 +8,7 @@
         public string Cargo { get; set; } = string.Empty;
         public double Salario { get; set; }
         public string CPF { get; set; } = string.Empty;
-        public bool Situação { get; set; }
+        public bool Situacao { get; set; }
         public string Senha { get; set; } = string.Empty;
     }
 }
